@@ -4,7 +4,7 @@
 
 基于JavaWeb的图书管理系统，主要用于图书信息的录入修改以及图书的借阅归还。</br>
 
-相关技术：Java, jsp, Tomcat, MySql, Servlet, Html, CSS, JavaScript</br>
+相关技术：Java, jsp, Tomcat, Mysql, Servlet, Html, CSS, JavaScript</br>
 
 
 
